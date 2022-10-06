@@ -1,6 +1,8 @@
+*{
+    box-sizing: border-box;
+}
 body {
     background-color: #002D62;
-    box-sizing: border-box;
     margin: 0px 40px;
 }
 div, a {
@@ -10,4 +12,9 @@ div, a {
     margin:0px 100px;
     height: 400px;
     width: 400px;
+}
+.menu-container{
+    display: flex;
+    gap: 2em;
+    flex-direction: row;
 }
