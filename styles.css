@@ -18,3 +18,6 @@ div, a {
     gap: 2em;
     flex-direction: row;
 }
+a {
+    text-decoration: none;
+}
