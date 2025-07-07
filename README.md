@@ -1,1 +1,1 @@
-# odin-recipes
+This is a readme file for the recipe test on the odin project foundation course 
