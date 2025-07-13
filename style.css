@@ -1,0 +1,26 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin: 8px auto;
+    text-align: center;
+    background-color: paleturquoise;
+    font-weight: bold;
+    padding: 8px;
+}
+
+a:hover {
+    color: red;
+}
+
+.home-link {
+     border: black;
+     font-size: 24px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
